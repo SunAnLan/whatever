@@ -22,7 +22,7 @@ kiwisolver==1.0.1
 matplotlib==2.2.3
 msgpack==0.5.6
 networkx==2.2
-numpy==1.15.4
+numpy==1.22.0
 opencv-python==3.4.3.18
 pathlib2==2.3.2
 pexpect==4.6.0
